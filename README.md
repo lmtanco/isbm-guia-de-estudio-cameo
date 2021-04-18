@@ -12,48 +12,36 @@ menos explícitas, de cómo se hace lo que el ítem pide.
 
 *   Distinguir entre un diagrama de bloques (bdd) y un diagrama interno de
     bloques (ibd).
-
 *   Crear actores y bloques; crear bloques de tipo *system*, *system* *context*,
     *external* desde la vista *Containment* y desde las paletas de componentes
     del diagrama de definición de bloques.
-
 *   Crear relaciones de agregación entre bloques.
-
     > Esta relación tiene sentido en el bdd
 
 *   Crear una relación de generalización (clasificación) entre bloques.
-
     > Esta relación tiene sentido en el bdd
 
 *   Crear relaciones de conexión entre bloques.
-
     > Esta relación tiene sentido en el ibd
 
 *   Crear puertos de tipo proxy en la frontera de los bloques, y crear
     conexiones ente bloques a través de estos puertos.
-
     > Esta relación tiene sentido en el diagrama de bloques interno
-
+    
 *   Crear un modelo de contexto en sus dos fases: primero, el bdd; luego, el ibd
     del bloque *system context*.
 
 ## Diagramas de casos de uso para modelar los escenarios operacionales:
 
 *   Utilizar el perfil de Cameo *UseCase Description Profile*.
-
 *   Introducir la descripción del escenario principal, las precondiciones y las
     postcondiciones del caso de uso, en ventana de especificación del caso de
     uso.
-
 *   Crear diagramas de casos de uso.
-
 *   Crea actores y casos de uso desde la vista *Containment.*
-
 *   Colocar casos de uso sobre el sistema de interés (bloque *system*) en el
     diagrama de casos de uso.
-
 *   Crear relaciones *include* (incluye a) entre casos de uso.
-
     > Ojo con el sentido de las flechas (la flecha va sobre el "a")
 
 *   Crear una relación de generalización (clasificación) entre actores, y entre
@@ -63,14 +51,17 @@ menos explícitas, de cómo se hace lo que el ítem pide.
 
 *   Crear requisitos y rellenar sus campos principales: identificador, nombre
     corto y descripción.
-
+    
+*   Crear identificadores únicos para los requisitos con los prefijos que queramos. 
+    > En el requisito. Menú emergente botón derecho \-\> Specification \-\> Id  
+         
 *   Crear relaciones de contención entre requisitos (*parent y child
     requirements*) desde la vista *Containment* y desde el diagrama de
     requisitos.
-
+    
 *   Encontrar y eliminar *del modelo* relaciones de contención entre requisitos
     desde la vista *Containment.*
-
+    
 *   Aplicar estereotipos de tipo *Need* o *Capability* a requisitos.
 
 *   Crear una matriz de trazabilidad entre *Needs* y casos de uso.
