@@ -1,5 +1,4 @@
 # GUÍA DE ESTUDIO ISBM - ¿Qué debemos saber hacer en CAMEO?
-A study-guide of Cameo Systems Modeler (in Spanish) for a module on MBSE for the Master's Deg. in Telecommunication Engineering at ETSIT UMA.  
 
 La mejor forma de usar esta guía es abrir Cameo e ir chequeando si se sabe hacer
 lo que cada uno de los ítems indica. En este formato, aparecen “pistas” más o
