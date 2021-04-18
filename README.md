@@ -71,6 +71,10 @@ menos explícitas, de cómo se hace lo que el ítem pide.
 
     > Seleccionado el elemento, Menú emergente botón derecho-\> Display -\>
     > Display Related Elements
+     
+*   Crear una relación entre dos elementos del modelo en la vista *Containment*. 
+
+    > Seleccionando el elemento, Menú emergente botón derecho \-\> Create Relation.
 
 ## Diagramas de bloques para modelar el contexto.
 
