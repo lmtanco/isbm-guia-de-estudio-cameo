@@ -16,5 +16,4 @@ menos explícitas, de cómo se hace lo que el ítem pide.
 
 ## Uso de Cameo para implementar la metodología ISE&PPOA: Arquitectura Funcional
 
-(Continuará). 
-
+* Modelar la arquitectura funcional mediante diagramas de bloque, actividad y matrices N² [Modelar la arquitectura funcional](https://github.com/lmtanco/isbm-guia-de-estudio-cameo/blob/main/arquitectura_funcional.md).
