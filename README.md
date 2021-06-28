@@ -14,6 +14,9 @@ menos explícitas, de cómo se hace lo que el ítem pide.
 *   Modelar los escenarios operacionales mediante diagramas de casos de uso: [Modelar los escenarios operacionales](https://github.com/lmtanco/isbm-guia-de-estudio-cameo/blob/main/modelo-contexto.md).
 *   Modelar las necesidades y las capacidades mediante diagramas y tablas de requisitos: [Modelar necesidades y capacidades](https://github.com/lmtanco/isbm-guia-de-estudio-cameo/blob/main/necesidades-y-capacidades.md).
 
-## Uso de Cameo para implementar la metodología ISE&PPOA: Arquitectura Funcional
+## Uso de Cameo para implementar la metodología ISE&PPOA: El Sistema
 
 * Modelar la arquitectura funcional mediante diagramas de bloque, actividad y matrices N²: [Modelar la arquitectura funcional](https://github.com/lmtanco/isbm-guia-de-estudio-cameo/blob/main/arquitectura_funcional.md).
+* Modelar la arquitectura física mediante diagramas de bloque. 
+* Asignar las funciones del sistema a los bloques del sistema mediante la relación de asignación (allocate). 
+* Crear un modelo de dominio mediante diagramas de bloque de tipo _Domain_. 
