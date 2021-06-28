@@ -17,4 +17,4 @@
   * Saber añadir las funciones (las correspondientes *CallBehaviourActions*) a filas y columnas.
   * Saber añadir los pines de salida a filas y los pines de entrada a columnas.
   * Saber añadir los *AcceptEventActions* a a filas y los *SendSignalActions* a columnas.   
-  * Saber reparar la matrix N² mediante la creación de *Metachain Navigations* cuando se rompe al añadir operadores de control de flujo. 
+  * ~~Saber reparar la matrix N² mediante la creación de *Metachain Navigations* cuando se rompe al añadir operadores de control de flujo~. 
