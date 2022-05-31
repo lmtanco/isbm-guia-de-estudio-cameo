@@ -11,7 +11,7 @@ menos explícitas, de cómo se hace lo que el ítem pide.
 ## Uso de Cameo para implementar la metodología ISE&PPOOA: La Misión del Sistema. 
 
 *   Modelar el contexto mediante diagramas de bloque: [Modelar el contexto](https://github.com/lmtanco/isbm-guia-de-estudio-cameo/blob/main/modelo-contexto.md).
-*   Modelar los escenarios operacionales mediante diagramas de casos de uso: [Modelar los escenarios operacionales](https://github.com/lmtanco/isbm-guia-de-estudio-cameo/blob/main/modelo-contexto.md).
+*   Modelar los escenarios operacionales mediante diagramas de casos de uso: [Modelar los escenarios operacionales](https://github.com/lmtanco/isbm-guia-de-estudio-cameo/blob/main/escenarios-operacionales.md).
 *   Modelar las necesidades y las capacidades mediante diagramas y tablas de requisitos: [Modelar necesidades y capacidades](https://github.com/lmtanco/isbm-guia-de-estudio-cameo/blob/main/necesidades-y-capacidades.md).
 
 ## Uso de Cameo para implementar la metodología ISE&PPOA: El Sistema
