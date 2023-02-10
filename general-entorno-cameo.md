@@ -2,6 +2,8 @@
 
 *   Crear un modelo y estructurar los distintos elementos del modelo en forma de
     árbol de *Packages*.
+    
+*   Importar un modelo para reutilizar sus elementos y relaciones en otro. 
 
 *   Distinguir entre:
 
