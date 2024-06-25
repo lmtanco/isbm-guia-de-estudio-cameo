@@ -1,4 +1,4 @@
-## General Entorno Cameo
+## General Entorno MSoSA
 
 *   Crear un modelo y estructurar los distintos elementos del modelo en forma de
     árbol de *Packages*.
